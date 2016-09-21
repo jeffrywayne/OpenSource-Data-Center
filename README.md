@@ -4,10 +4,10 @@ Need to start with a Nucleus of software needed to run the data center, which ha
 
 Continuous Delivery:
 
-Orchestration	Continuos build, test, and integration of application and infrastructure code;
+Orchestration	Continuous build, test, and integration of application and infrastructure code
 
-Infrastructure Orchestration	Orchestrated provisioning and configuration of stack-specific infrastructure;
+Infrastructure Orchestration	Orchestrated provisioning and configuration of stack-specific infrastructure
 
-Configuration Management (Image Build)	Continuous build, test, and integration of cloud instance images by application component;
+Configuration Management (Image Build)	Continuous build, test, and integration of cloud instance images by application component
 
-Artifact Repository (Infracode)	Repository of successfully tested infrastructure code.
+Artifact Repository (Infracode)	Repository of successfully tested infrastructure code
