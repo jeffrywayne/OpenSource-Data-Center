@@ -1,7 +1,7 @@
 # OpenSource-Data-Center
 Create an enterprise data center solely on an OpenSource framework
 
-Mieeleware:
+Middleware:
 
 HTTP Proxy	Reverse proxy and routing to backend micro services and applications
 
